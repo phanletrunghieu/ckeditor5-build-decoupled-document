@@ -9,7 +9,7 @@ import AlignmentPlugin from '@ckeditor/ckeditor5-alignment/src/alignment';
 import FontsizePlugin from '@ckeditor/ckeditor5-font/src/fontsize';
 import FontfamilyPlugin from '@ckeditor/ckeditor5-font/src/fontfamily';
 import HighlightPlugin from '@ckeditor/ckeditor5-highlight/src/highlight';
-import UploadadapterPlugin from '@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter';
+import UploadadapterPlugin from './uploadadapter';
 import AutoformatPlugin from '@ckeditor/ckeditor5-autoformat/src/autoformat';
 import BoldPlugin from '@ckeditor/ckeditor5-basic-styles/src/bold';
 import ItalicPlugin from '@ckeditor/ckeditor5-basic-styles/src/italic';

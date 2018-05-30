@@ -20,7 +20,7 @@ module.exports = {
 		'@ckeditor/ckeditor5-font/src/fontsize',
 		'@ckeditor/ckeditor5-font/src/fontfamily',
 		'@ckeditor/ckeditor5-highlight/src/highlight',
-		'@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter',
+		'./uploadadapter',
 		'@ckeditor/ckeditor5-autoformat/src/autoformat',
 		'@ckeditor/ckeditor5-basic-styles/src/bold',
 		'@ckeditor/ckeditor5-basic-styles/src/italic',
